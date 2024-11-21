@@ -1,0 +1,1 @@
+Criação de um banco digital utilizando Java e conceitos de POO, para representar criação de contas digitais e operações básicas. Codifiquei esse peojeto pelo meu smartphone, por isso não escrevi tantos detalhes.
